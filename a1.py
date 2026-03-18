@@ -1,0 +1,5 @@
+print("welcome to python course")
+print(100)
+print("100+200=",100+200)
+print("\n i purchased a bag of ",100,end="$")
+print("\n i purchased a bag of ",100,"$")
